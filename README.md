@@ -1,6 +1,6 @@
 # DocuWeb22 - Documenting Web Data for Social Research
 ## A participatory workshop for developing structured and reusable practices 
-A half-day, in person workshop at WebSci2022 in Barcelona!
+A half-day, in person workshop at [WebSci2022](https://websci22.webscience.org/) in Barcelona!
 
 ### Workshop Description
 With this half-day workshop, we want to collaboratively discover best practices as well as frequent pitfalls encountered when working with Web data. While the documentation of datasets is a well established standard in a wide range of disciplines, the documentation of Web data comes with a number of unique challenges - among them the potential influence of the collection process on the composition of the resulting dataset, or the use of automated processing methods that might not generalize well to the problem at hand. 
