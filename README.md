@@ -8,9 +8,9 @@ During the first part of the workshop, we will introduce and discuss existing fr
 
 ### Call for Abstracts
 - **Details:** We invite participants to share their past experiences with the collection and documentation of Web data. We formulate this Call for Abstracts as general as possible in order to collect the experiences and perspectives of a range of backgrounds, disciplines and research questions as wide as possible. This collection shall then serve as a basis for discussion of existing and possible future approaches to the successful documentation of high quality Web data. Examples of submissions we would expect to receive are reflections on challenges encountered and best-practices developed during past research projects, perspectives on and user-experiences with frameworks or methods for the assessment of Web data quality, or already created documentation sheets for previous data collections. Potential areas of interest include but are not limited to:
--- potential and innovative use of web data for social inquiry
--- frameworks or methods for assessing web data quality
--- reflections of challenges in assessing, documenting web data
+    - potential and innovative use of web data for social inquiry
+    - frameworks or methods for assessing web data quality
+    - reflections of challenges in assessing, documenting web data
 - **Requirements:** ...
 - **Deadline:** ...
 - **Submission Details:** ...
