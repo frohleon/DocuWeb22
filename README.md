@@ -20,5 +20,7 @@ Put info on keynote speaker here.
 
 ### Organizers
 [Leon Fröhling](https://www.gesis.org/en/institute/staff/person/Leon.Froehling?no_cache=1) is a doctoral researcher in the department of Computational Social Science at GESIS, Leibniz Institute for Social Sciences, Cologne. He is interested in studying the ways in which theoretically derived research frameworks may be transferred into actual research practice. 
+
 [Indira Sen](https://indiiigo.github.io/) is a doctoral researcher in Computer Science in the department of Computational Social Science at GESIS, Leibniz Institute for Social Sciences, Cologne. Her interest lies in understanding biases in inferential studies from digital traces, with a focus on natural language processing.
+
 [Dr. Katrin Weller](https://katrinweller.net/) is an information scientist and leads the Digital Society Observatory team at GESIS’ Computational Social Science Department, and is co-lead of the Research Data and Methods Dept. at the Center of Advanced Internet Studies (CAIS). In 2015, she was a Digital Studies fellow at the Library of Congress’ John W. Kluge Center in Washington D.C. (USA).
