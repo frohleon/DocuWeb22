@@ -1,6 +1,6 @@
 # DocuWeb22 - Documenting Web Data for Social Research
 ## A participatory workshop for developing structured and reusable practices 
-A half-day, in person workshop at [WebSci2022](https://websci22.webscience.org/) in Barcelona!
+A half-day, in person workshop at [WebSci'22](https://websci22.webscience.org/) in Barcelona!
 
 ### Workshop Description
 With this half-day workshop, we want to collaboratively discover best practices as well as frequent pitfalls encountered when working with Web data. While the documentation of datasets is a well established standard in a wide range of disciplines, the documentation of Web data comes with a number of unique challenges - among them the potential influence of the collection process on the composition of the resulting dataset, or the use of automated processing methods that might not generalize well to the problem at hand. 
@@ -9,17 +9,18 @@ During the first part of the workshop, we will introduce and discuss existing fr
 
 In the second part of the workshop, we hope to interactively explore different experiences and perspectives of the participants on the collection and documentation of Web data. We would therefore like to encourage everyone to follow our Call for Abstracts and share their views on the topic with us and the other participants (however, submission is not a requirement for participation in the workshop). Lastly, we will collectively work on the documentation of a typical Web data collection process, discovering and discussing potential limitations and sources of error along the way.
 
-### Call for Abstracts
-- **Details:** We invite participants to share their past experiences with the collection and documentation of Web data. We formulate this Call for Abstracts as general as possible in order to collect the experiences and perspectives of a range of backgrounds, disciplines and research questions as wide as possible. This collection shall then serve as a basis for discussion of existing and possible future approaches to the successful documentation of high quality Web data. 
+### Call for Participation (Abstracts)
+- **Details:** To better tailor the workshop contents and discussions to the participants interest, we invite everyone to share their past experiences with the collection and documentation of Web data. We formulate this *Call for Participation* as general as possible in order to collect the experiences and perspectives of a range of backgrounds, disciplines and research questions as wide as possible. This collection shall then serve as a basis for discussion of existing and possible future approaches to the successful documentation of high quality Web data. 
 Potential areas of interest include but are not limited to:
     - potential and innovative use of web data for social inquiry
     - frameworks or methods for assessing web data quality
     - reflections of challenges in assessing, documenting web data
     - ...
-- **Requirements:** Submissions may be as long as required by participants to share their experiences with and perspectives on the documentation of Web data. Our expectation would be that submissions range from 2 to 8 pages in length, without any formatting requirements in place.
+- **Benefits:** For those who submitted their perspectives and experiences we will aim to jointly discuss potential documentation strategies for their use cases. You will also get the chance to showcase your research in a spotlight talk (approx. 5 minutes).
+- **Requirements:** Submissions may be as long as required by participants to share their experiences with and perspectives on the documentation of Web data. Our expectation would be that submissions range from 1 to 5 pages in length, without any formatting requirements in place. Please only submit if you are willing to also talk about your experiences during the workshop discussions.
 - **Deadline:** May 31, 2022
 - **Submission Details:** ...
-- **Disclaimer:** The submissions made to this workshop will **not** be considered for publication in the conference proceedings, nor will they be published in any other venue. Submissions will only be used to foster conversation and exchange during the workshop.
+- **Disclaimer:** The submissions made to this workshop will **not** be considered for publication in the conference proceedings, nor will they be published in any other venue. Submissions will be used to foster conversation and exchange during the workshop, and will be shared with registered workshop participants only.
 
 ### Schedule
 Put schedule here.
@@ -32,4 +33,4 @@ Put info on keynote speaker here.
 
 [Indira Sen](https://indiiigo.github.io/) is a doctoral researcher in Computer Science in the department of Computational Social Science at GESIS, Leibniz Institute for Social Sciences, Cologne. Her interest lies in understanding biases in inferential studies from digital traces, with a focus on natural language processing.
 
-[Dr. Katrin Weller](https://katrinweller.net/) is an information scientist and leads the Digital Society Observatory team at GESIS’ Computational Social Science Department, and is co-lead of the Research Data and Methods Dept. at the Center of Advanced Internet Studies (CAIS). In 2015, she was a Digital Studies fellow at the Library of Congress’ John W. Kluge Center in Washington D.C. (USA).
+[Dr. Katrin Weller](https://katrinweller.net/) is an information scientist and leads the Digital Society Observatory team at GESIS’ Computational Social Science Department, and is co-lead of the Research Data and Methods Dept. at the Center of Advanced Internet Studies (CAIS).
