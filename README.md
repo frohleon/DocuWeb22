@@ -36,7 +36,7 @@ Potential areas of interest include but are not limited to:
 | Final group discussion, lessons learned and closing | 25 minutes |
 
 ### Keynote Speaker
-Put info on keynote speaker here.
+More info coming soon, stay tuned!
 
 ### Organizers
 [Leon Fröhling](https://www.gesis.org/en/institute/staff/person/Leon.Froehling?no_cache=1) is a doctoral researcher in the department of Computational Social Science at GESIS, Leibniz Institute for Social Sciences, Cologne. He is interested in studying the ways in which theoretically derived research frameworks may be transferred into actual research practice. 
