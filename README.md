@@ -25,6 +25,7 @@ Potential areas of interest include but are not limited to:
 ### Schedule
 
 | Session | Time |
+|---------|------|
 | Opening and Introductions | 15 minutes |
 | Session 1: Introduction to existing guidelines for research with Web data | 30 minutes |
 | Session 2: Invited keynote talk + Q&A | 45 minutes |
