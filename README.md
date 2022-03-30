@@ -23,7 +23,11 @@ Potential areas of interest include but are not limited to:
 - **Disclaimer:** The submissions made to this workshop will **not** be considered for publication in the conference proceedings, nor will they be published in any other venue. Submissions will be used to foster conversation and exchange during the workshop, and will be shared with registered workshop participants only.
 
 ### Schedule
-Put schedule here.
+
+| Session | Time |
+| Opening and Introductions | 15 minutes |
+| Session 1: Introduction to existing guidelines for research with Web data | 30 minutes |
+| Session 2: Invited keynote talk + Q&A | 45 minutes |
 
 ### Keynote Speaker
 Put info on keynote speaker here.
