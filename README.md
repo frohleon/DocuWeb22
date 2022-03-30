@@ -29,6 +29,11 @@ Potential areas of interest include but are not limited to:
 | Opening and Introductions | 15 minutes |
 | Session 1: Introduction to existing guidelines for research with Web data | 30 minutes |
 | Session 2: Invited keynote talk + Q&A | 45 minutes |
+| Session 3: Short presentations of example cases from participants - Part I | 25 minutes |
+| *Break* | 30 minutes |
+| Session 4: Short presentations of example cases from participants - Part II | 25 minutes |
+| Session 5: Applying guidelines for documenting limitations of research designs to selected cases (small working groups) | 45 minutes |
+| Final group discussion, lessons learned and closing | 25 minutes |
 
 ### Keynote Speaker
 Put info on keynote speaker here.
