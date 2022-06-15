@@ -2,6 +2,8 @@
 ## A participatory workshop for developing structured and reusable practices 
 A half-day, in person workshop at [WebSci'22](https://websci22.webscience.org/) in Barcelona! The workshop takes place **Sunday, June 26**. We encourage participants to attend in person in order to add to the debate, but will also make the first part of the workshop (introduction + keynote) available for online participation.
 
+We are very happy to announce that [Prof. Libby Hemphill](https://www.libbyh.com/) will hold a keynote talk on her experiences with establishing a Social Media Archive (SOMAR) at [ICPSR](https://www.icpsr.umich.edu/web/pages/).
+
 ### Workshop Description
 With this half-day workshop, we want to collaboratively discover best practices as well as frequent pitfalls encountered when working with Web data. While the documentation of datasets is a well established standard in a wide range of disciplines, the documentation of Web data comes with a number of unique challenges - among them the potential influence of the collection process on the composition of the resulting dataset, or the use of automated processing methods that might not generalize well to the problem at hand. 
 
