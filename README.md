@@ -23,7 +23,7 @@ Potential areas of interest include but are not limited to:
 - **Disclaimer:** The submissions made to this workshop will **not** be considered for publication in the conference proceedings, nor will they be published in any other venue. Submissions will be used to foster conversation and exchange during the workshop, and will be shared with registered workshop participants only.
 
 ### Schedule
-**Please note:** Our workshop starts at 14:30, ahead of the regular Afternoon session schedule.
+**-Please note:-** Our workshop starts at 14:30, ahead of the regular *Afternoon session* schedule.
 | Session | Time (tentatively) |
 |---------|------|
 | Opening and Introductions | 15 minutes |
