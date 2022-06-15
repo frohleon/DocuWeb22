@@ -14,9 +14,9 @@ In the second part of the workshop, we hope to interactively explore different e
 ### Call for Participation (Abstracts)
 - **Details:** To better tailor the workshop contents and discussions to the participants interest, we invite everyone to share their past experiences with the collection and documentation of Web data. We formulate this *Call for Participation* as general as possible in order to collect the experiences and perspectives of a range of backgrounds, disciplines and research questions as wide as possible. This collection shall then serve as a basis for discussion of existing and possible future approaches to the successful documentation of high quality Web data. 
 Potential areas of interest include but are not limited to:
-    - potential and innovative use of web data for social inquiry
-    - frameworks or methods for assessing web data quality
-    - reflections of challenges in assessing, documenting web data
+    - Potential and innovative use of web data for social inquiry
+    - Frameworks or methods for assessing web data quality
+    - Reflections of challenges in assessing, documenting web data
     - ...
 - **Benefits:** For those who submitted their perspectives and experiences we will aim to jointly discuss potential documentation strategies for their use cases. You will also get the chance to showcase your research in a spotlight talk (approx. 5 minutes).
 - **Requirements:** Submissions may be as long as required by participants to share their experiences with and perspectives on the documentation of Web data. Our expectation would be that submissions range from 1 to 5 pages in length, without any formatting requirements in place. Please only submit if you are willing to also talk about your experiences during the workshop discussions.
