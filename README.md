@@ -44,3 +44,6 @@ More info coming soon, stay tuned!
 [Indira Sen](https://indiiigo.github.io/) is a doctoral researcher in Computer Science in the department of Computational Social Science at GESIS, Leibniz Institute for Social Sciences, Cologne. Her interest lies in understanding biases in inferential studies from digital traces, with a focus on natural language processing.
 
 [Dr. Katrin Weller](https://katrinweller.net/) is an information scientist and leads the Digital Society Observatory team at GESIS’ Computational Social Science Department, and is co-lead of the Research Data and Methods Dept. at the Center of Advanced Internet Studies (CAIS).
+
+### How to attend
+[Register for the WebSci’22 conference!](https://websci22.webscience.org/registration/) If you can’t or don’t want to travel to Barcelona for onsite participation, options for online participation are available as well. And if you are only interested in joining our workshop, you could also choose to just register for the workshops, either online or onsite! There are also still some reduced/free tickets available for researchers who qualify for the [fair access](https://websci22.webscience.org/registration/fair-access/) programs. For all others: If you want to join only for the keynote but not for the rest of the workshop/conference, please email us to explore free access options. 
