@@ -28,9 +28,9 @@ Potential areas of interest include but are not limited to:
 **Please note:** Our workshop starts at 14:30, ahead of the regular *Afternoon session* schedule.
 | Session | Time (tentatively) |
 |---------|------|
-| Opening and Introductions | 15 minutes |
-| Session 1: Introduction to existing guidelines for research with Web data | 30 minutes |
-| Session 2: Invited keynote talk + Q&A | 45 minutes |
+| Session 1: Invited keynote talk + Q&A | 60 minutes |
+| *Break* | 30 minutes |
+| Session 2: Introduction to existing guidelines for research with Web data | 30 minutes |
 | Session 3: Short presentations of example cases from participants - Part I | 25 minutes |
 | *Break* | 30 minutes |
 | Session 4: Short presentations of example cases from participants - Part II | 25 minutes |
