@@ -30,17 +30,17 @@ Potential areas of interest include but are not limited to:
 
 | Session | Time (tentatively) |
 |---------|------|
-| Session 1: Invited keynote talk + Q&A | 60 minutes |
-| *Break* | 30 minutes |
-| Session 2: Introduction to existing guidelines for research with Web data | 30 minutes |
-| Session 3: Short presentations of example cases from participants - Part I | 25 minutes |
-| *Break* | 30 minutes |
-| Session 4: Short presentations of example cases from participants - Part II | 25 minutes |
-| Session 5: Applying guidelines for documenting limitations of research designs to selected cases (small working groups) | 45 minutes |
-| Final group discussion, lessons learned and closing | 25 minutes |
+| Session 1: Invited keynote talk + Q&A | 14:30 - 15:30 |
+| *Break* | 15:30 - 16:00 |
+| Session 2: Introduction to existing guidelines for research with Web data | 16:00 - 16:30 |
+| Session 3: Invited case study "Critical Reflections on a Twitter data collection" | 16:30 - 17:00 |
+| *Break* | 17:00 - 17:20 |
+| Session 4: Short presentations of example cases from participants - Part II | 17:20 - 17:45 |
+| Session 5: Applying guidelines for documenting limitations of research designs to selected cases (small working groups) | 17:45 - 18:30 |
+| Final group discussion, lessons learned and closing | 18:30 - 19:00 |
 
 ### Keynote Speaker
-More info coming soon, stay tuned!
+Prof. Libby Hemphill is a professor at the University of Michigan, where she is associated with the School of Information, the Institute for Social Research and the Center for Social Media Research. At the ICPSR, where she also serves as director of the Resource Center for Minority Data, Libby recently established the Social Media Archive (SOMAR). Her past research is concerned with various aspects of the data curation process as well as the data management practices of social media researchers, making her the ideal fit for our keynote.
 
 ### Organizers
 [Leon Fröhling](https://www.gesis.org/en/institute/staff/person/Leon.Froehling?no_cache=1) is a doctoral researcher in the department of Computational Social Science at GESIS, Leibniz Institute for Social Sciences, Cologne. He is interested in studying the ways in which theoretically derived research frameworks may be transferred into actual research practice. 
