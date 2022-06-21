@@ -31,8 +31,8 @@ Potential areas of interest include but are not limited to:
 | Session | Time CEST/UTC+2 (tentatively) |
 |---------|------|
 | Session 1: Invited keynote talk + Q&A | 14:30 - 15:30 |
-| *Break* | 15:30 - 16:00 |
-| Session 2: Introduction to existing guidelines for research with Web data | 16:00 - 16:30 |
+| *Break* | 15:30 - 15:50 |
+| Session 2: Introduction to existing guidelines for research with Web data | 15:50 - 16:30 |
 | Session 3: Invited case study "Critical Reflections on a Twitter data collection" | 16:30 - 17:00 |
 | *Break* | 17:00 - 17:20 |
 | Session 4: Short presentations of example cases from participants | 17:20 - 17:45 |
