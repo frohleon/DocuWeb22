@@ -35,7 +35,7 @@ Potential areas of interest include but are not limited to:
 | Session 2: Introduction to existing guidelines for research with Web data | 16:00 - 16:30 |
 | Session 3: Invited case study "Critical Reflections on a Twitter data collection" | 16:30 - 17:00 |
 | *Break* | 17:00 - 17:20 |
-| Session 4: Short presentations of example cases from participants - Part II | 17:20 - 17:45 |
+| Session 4: Short presentations of example cases from participants | 17:20 - 17:45 |
 | Session 5: Applying guidelines for documenting limitations of research designs to selected cases (small working groups) | 17:45 - 18:30 |
 | Final group discussion, lessons learned and closing | 18:30 - 19:00 |
 
