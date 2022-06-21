@@ -26,7 +26,7 @@ Potential areas of interest include but are not limited to:
 
 ### Schedule
 
-**Please note:** Our workshop starts at 14:30 CEST/UTC+2, ahead of the regular *Afternoon session* schedule.
+**Please note:** Our workshop starts at [14:30 CEST/UTC+2](https://websci22.webscience.org/programme/schedule/), ahead of the regular *Afternoon session* schedule.
 
 | Session | Time CEST/UTC+2 (tentatively) |
 |---------|------|
