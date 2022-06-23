@@ -2,7 +2,7 @@
 ## A participatory workshop for developing structured and reusable practices 
 A half-day, in person workshop at [WebSci'22](https://websci22.webscience.org/) in Barcelona! The workshop takes place **Sunday, June 26**. We encourage participants to attend in person in order to add to the debate, but will also make the first part of the workshop (introduction + keynote) available for online participation.
 
-We are very happy to announce that [Prof. Libby Hemphill](https://www.libbyh.com/) will hold a **keynote talk** on her experiences with establishing a Social Media Archive (SOMAR) at [ICPSR](https://www.icpsr.umich.edu/web/pages/).
+We are very happy to announce that [Prof. Libby Hemphill](https://www.libbyh.com/) will hold a **keynote talk** on her experiences with establishing a Social Media Archive (SOMAR) at [ICPSR](https://www.icpsr.umich.edu/web/pages/). Additionally, [Dr. Ali Hürriyetoğlu](https://odeuropa.eu/team/ali-hurriyetoglu/) will present an invited case study, showcasing the research design for the collection of a large dataset of Turkish Twitter users, and reflecting on how error frameworks guided them in this endeavor.
 
 ### Workshop Description
 With this half-day workshop, we want to collaboratively discover best practices as well as frequent pitfalls encountered when working with Web data. While the documentation of datasets is a well established standard in a wide range of disciplines, the documentation of Web data comes with a number of unique challenges - among them the potential influence of the collection process on the composition of the resulting dataset, or the use of automated processing methods that might not generalize well to the problem at hand. 
@@ -30,17 +30,19 @@ Potential areas of interest include but are not limited to:
 
 | Session | Time CEST/UTC+2 (tentatively) |
 |---------|------|
-| Session 1: Invited keynote talk + Q&A | 14:30 - 15:30 |
+| Session 1: Invited keynote talk by Prof. Libby Hemphill + Q&A | 14:30 - 15:30 |
 | *Break* | 15:30 - 15:50 |
 | Session 2: Introduction to existing guidelines for research with Web data | 15:50 - 16:30 |
-| Session 3: Invited case study "Critical Reflections on a Twitter data collection" | 16:30 - 17:00 |
+| Session 3: Invited case study “Recent developments in the utilization and protection of text data collected from the web” | 16:30 - 17:00 |
 | *Break* | 17:00 - 17:20 |
 | Session 4: Short presentations of example cases from participants | 17:20 - 17:45 |
 | Session 5: Applying guidelines for documenting limitations of research designs to selected cases (small working groups) | 17:45 - 18:30 |
 | Final group discussion, lessons learned and closing | 18:30 - 19:00 |
 
-### Keynote Speaker
-Prof. Libby Hemphill is a professor at the University of Michigan, where she is associated with the School of Information, the Institute for Social Research and the Center for Social Media Research. At the ICPSR, where she also serves as director of the Resource Center for Minority Data, Libby recently established the Social Media Archive (SOMAR). Her past research is concerned with various aspects of the data curation process as well as the data management practices of social media researchers, making her the ideal fit for our keynote.
+### Speaker Bios
+*Keynote:* Prof. Libby Hemphill is a professor at the University of Michigan, where she is associated with the School of Information, the Institute for Social Research and the Center for Social Media Research. At the ICPSR, where she also serves as director of the Resource Center for Minority Data, Libby recently established the Social Media Archive (SOMAR). Her past research is concerned with various aspects of the data curation process as well as the data management practices of social media researchers, making her the ideal fit for our keynote.
+
+*Invited Case Study:* Dr. Ali Hürriyetoğlu is a postdoctoral research fellow at KNAW in the Odeuropa project working on historical multilingual text processing. Dr. Hürriyetoğlu was a postdoctoral research fellow at Koc University in the European Research Commission (ERC) projects “Emerging Welfare” (EMW) and “Social ComQuant: Excelling in Computational and Quantitative Social Sciences in Turkey'' between 2017 and 2021. Mr. Hürriyetoğlu performed research on extracting actionable information from social media in the scope of his Ph.D studies at Radboud University. He has been working in industrial, governmental, and academic settings to process news and social media text in various domains throughout his career. His recent research focus is on the robustness and the generalizability of text processing systems across contexts. Dr. Hürriyetoğlu has been proposing challenges and organizing shared tasks on socio-political event extraction since 2019 in the scope of CLEF, LREC, ACL, and EMNLP.
 
 ### Organizers
 [Leon Fröhling](https://www.gesis.org/en/institute/staff/person/Leon.Froehling?no_cache=1) is a doctoral researcher in the department of Computational Social Science at GESIS, Leibniz Institute for Social Sciences, Cologne. He is interested in studying the ways in which theoretically derived research frameworks may be transferred into actual research practice. 
